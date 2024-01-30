@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding: 0;
+    background-color: black;
+}
+#container{
+    margin-left: 15%;
+    margin-right: 15%;
+margin-top: 0;
+margin-bottom: 0;
+}
+#div1{
+    Color:rgb(35, 35, 182);
+    background-color: rgb(250, 251, 253);
+   padding: 4%;
+   justify-content: center;
+  
+    
+}
+#div2{
+    Color:rgb(220, 220, 235);
+    background-color: rgb(25, 39, 52);
+    padding: 27%;
+    justify-content: center;
+   
+}
+#div3{
+    Color:rgb(35, 35, 182);
+    background-color: rgb(223, 230, 236);
+    padding: 14%;
+    justify-content: center;
+
+}
+#div4{
+    Color:rgb(14, 14, 16);
+    background-color: rgb(147, 153, 157);
+  padding: 14%;
+}
+#p1{
+    color: rgb(153, 71, 156);
+    background-color: rgb(250, 251, 253);
+   padding :10%;
+    }
+    #p3{
+        color: rgb(110, 95, 102);
+        background-color: rgb(223, 230, 236);
+        justify-content: center;
+       
+        }
+        #p4{
+            color: rgb(4, 49, 77);
+            background-color: rgb(147, 153, 157);
+            justify-content: center;
+            }
+            b{
+
+                background-color: rgb(147, 153, 157);
+                color:rgb(90, 11, 164);
+                padding:12px;
+            }
